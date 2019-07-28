@@ -1,3 +1,6 @@
+> ## This module is DEPRECATED
+> This module has been moved to the monorepo [wocss](https://github.com/wocss/wocss/tree/master/packages/tools.bem-constructor#readme) (and renamed to `@wocss/tools-bem-constructor`)
+
 # BEM-CONSTRUCTOR
 
 > Tool
